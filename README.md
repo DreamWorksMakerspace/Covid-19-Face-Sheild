@@ -1,5 +1,5 @@
-# Covid-19-Face-Sheild
-The face Sheild mask
+# Covid-19-Face-Shield
+The face Shield mask
 
 
 As we are all aware of the widespread Coronavirus and also as it is a respiratory virus, a
