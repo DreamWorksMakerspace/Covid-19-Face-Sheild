@@ -11,6 +11,7 @@ disease.
 
 Supply:
 The basic supplies we have used are
+
 ● Acrylic sheets
 
 ● OHP sheets
